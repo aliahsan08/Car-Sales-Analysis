@@ -51,12 +51,12 @@ To install them manually:
 
 1. Clone the repository from GitHub
 2. Launch Jupyter Lab or Notebook
-3. Open the notebook file named **car\_sales\_analysis.ipynb**
+3. Open the notebook file named **Car\_Sales.ipynb**
 4. Run the cells to explore the analysis and visualizations
 
 ## Project Structure
 
-* **data/** – contains the dataset (car\_sales.csv)
-* **car\_sales\_analysis.ipynb** – main analysis notebook
-* **README.md** – project documentation
+* **Car Sales.xlsx - car_data.csv** - contains the dataset (Taken from Kaggle)
+* **Car\_Sales.ipynb** - main analysis notebook
+* **README.md** - project documentation
 
